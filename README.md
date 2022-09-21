@@ -11,3 +11,5 @@ The 15 LEDs are controlled with 10 digital outputs only through a little hack si
 
 This is an Arduino Project to be built in the Arduino IDE for the ESP8266 microcontroller.
 It could easily be ported over ESP32 if needed, or modified to use a screen instead of the LEDs. I chose the LEDs because I thought it was a more user-friendly interface than a monochrome screen.
+
+![alt text](https://github.com/Abela-Things/esp8266-ecowatt/blob/master/IMG_20220921_120627.jpg)
